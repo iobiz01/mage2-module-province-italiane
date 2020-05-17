@@ -1,0 +1,25 @@
+{
+  "name": "fabbellotti/magento2-province-italiane",
+  "description": "Modulo per l'installazione delle province italiane in Magento2",
+  "authors": [{
+    "name": "Fabrizio Bellotti",
+    "email": "bellotti@fabrizio.app",
+    "homepage": "https://www.fabrizio.app",
+    "role": "Developer"
+  }],
+  "require": {
+    "magento/module-directory": "100.0.*|100.1.*|100.2.*|100.3.*"
+  },
+  "type": "magento2-module",
+  "version": "1.0.0",
+  "license": [
+    "OSL-3.0",
+    "AFL-3.0"
+  ],
+  "autoload": {
+    "files": [ "registration.php" ],
+    "psr-4": {
+      "Fabbellotti\\ProvinceItaliane\\": ""
+    }
+  }
+}
