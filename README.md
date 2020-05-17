@@ -1,5 +1,7 @@
 # Modulo per aggiungere le Province Italiane a Magento 2
-Puoi eseguire l'installazione con Composer digitando:
+Questo modulo include anche la Provincia del Sud Sardegna (SU)
+
+Puoi eseguire l'installazione tramite Composer digitando:
 
 `composer require fabbellotti/magento2-province-italiane`
 
