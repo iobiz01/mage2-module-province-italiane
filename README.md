@@ -3,7 +3,7 @@ Questo modulo include anche la Provincia del Sud Sardegna (SU)
 
 Puoi eseguire l'installazione tramite Composer digitando:
 
-`composer require fabbellotti/magento2-province-italiane`
+`composer require iobiz/magento2-province-italiane`
 
 Attiva il modulo dalla CLI digitando:
 
